@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date: 29/05/26
+# Date: 29/05/26
 # Name: Jaswanth S
 # Regno: 212223220037
 
